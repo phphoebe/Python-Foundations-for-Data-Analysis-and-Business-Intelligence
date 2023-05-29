@@ -8,3 +8,17 @@ This repository consists of some of the assignments and hands-on practices that 
 * Explore raw data using conditional logic, nested loops, custom functions, and comprehensions
 * Use Python's Openpyxl package to read & write data to Excel worksheets
 * Build solid, foundational Python skills for data analysis & business intelligence
+
+### The **Maven Ski Shop** Course Project
+
+Act as a newly hired Data Analyst for **Maven Ski Shop**, the world's #1 store for skis, snowboards, and winter gear. The team is beginning to use Python for data analysis. 
+
+The assignment is to prepare for scalabe growth, the business is transitioning to Python as their primary tool for tracking **inventory**, **pricing**, and **promotions**. 
+
+The first task is to analyze sales data from the shop's recent Black Friday promotion. 
+
+The objectives are **use Python to:**
+* Process missing data fields
+* Reshape and aggregate transactional data
+* Calculate KPIs and deliver insights on Black Friday Sales
+* Build a simple data pipeline and export processed data to Excel to share with leadership
