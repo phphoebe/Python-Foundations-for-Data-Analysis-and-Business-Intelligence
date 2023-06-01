@@ -25,7 +25,7 @@ The objectives are **use Python to:**
 
 ## Setup & Run Jupyter Notebooks in VS Code w/ Virtual Env & Kernels
 
-I completed below setup instead of using conda (course instruction):
+I completed below setup instead of using Anaconda (course instruction):
 * create a virtual environment
   ```
   python3 -m venv jupyter-env 
