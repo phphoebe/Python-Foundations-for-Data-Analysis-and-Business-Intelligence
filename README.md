@@ -23,7 +23,7 @@ The objectives are **use Python to:**
 * Calculate KPIs and deliver insights on Black Friday Sales
 * Build a simple data pipeline and export processed data to Excel to share with leadership
 
-### Setup & Run Jupyter Notebooks/JupyterLab in VS Code w/ Virtual Environment & Kernels
+## Setup & Run Jupyter Notebooks/JupyterLab in VS Code w/ Virtual Environment & Kernels
 
 I completed below setup instead of using conda (course instruction):
 * create a virtual environment
