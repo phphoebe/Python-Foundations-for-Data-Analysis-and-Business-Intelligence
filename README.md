@@ -40,7 +40,6 @@ I completed below setup instead of using conda (course instruction):
   pip install jupyterlab
   
   pip install ipykernel
-
   ```
   Validate that the install has succeeded by running `jupyter-lab` from your command line. A new tab should open in your browser, with the JupyterLab application running. 
   
