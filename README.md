@@ -58,4 +58,4 @@ I completed below setup instead of using conda (course instruction):
   python3 -m ipykernel install --name =‘maven-python‘ --user
   ```
   
-  Now open an existing/create a new `.ipynb` file and select the `maven-python` Kernel to use
+Now open an existing/create a new `.ipynb` file in VS Code and select the `maven-python` Kernel to use
