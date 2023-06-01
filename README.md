@@ -41,7 +41,7 @@ I completed below setup instead of using conda (course instruction):
   
   pip install ipykernel
   ```
-  Validate that the install has succeeded by running `jupyter-lab` from your command line. A new tab should open in your browser, with the JupyterLab application running. 
+  _Validate that the install has succeeded by running `jupyter-lab` from your command line. A new tab should open in your browser, with the JupyterLab application running._
   
   * install useful Python packages in this virtual env
   
@@ -56,7 +56,6 @@ I completed below setup instead of using conda (course instruction):
 
   ```
   python3 -m ipykernel install --name =‘maven-python‘ --user
-
   ```
   
   Now open an existing/create a new `.ipynb` file and select the `maven-python` Kernel to use
