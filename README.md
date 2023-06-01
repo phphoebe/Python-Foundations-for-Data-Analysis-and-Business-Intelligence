@@ -9,7 +9,7 @@ This repository consists of some of the assignments and hands-on practices that 
 * Use Python's Openpyxl package to read & write data to Excel worksheets
 * Build solid, foundational Python skills for data analysis & business intelligence
 
-### The **Maven Ski Shop** Course Project
+#### The **Maven Ski Shop** Course Project
 
 Act as a newly hired Data Analyst for **Maven Ski Shop**, the world's #1 store for skis, snowboards, and winter gear. The team is beginning to use Python for data analysis. 
 
@@ -22,3 +22,42 @@ The objectives are **use Python to:**
 * Reshape and aggregate transactional data
 * Calculate KPIs and deliver insights on Black Friday Sales
 * Build a simple data pipeline and export processed data to Excel to share with leadership
+
+### Setup & Run Jupyter Notebooks/JupyterLab in VS Code w/ Virtual Environment & Kernels
+
+I completed below setup instead of using conda (course instruction):
+* create a virtual environment
+  ```
+  python3 -m venv jupyter-env 
+  ```
+* activate the virtual env
+  ```
+  source jupyter-env/bin/activate
+  ```
+* Installation 
+
+  ```
+  pip install jupyterlab
+  
+  pip install ipykernel
+
+  ```
+  Validate that the install has succeeded by running `jupyter-lab` from your command line. A new tab should open in your browser, with the JupyterLab application running. 
+  
+  * install useful Python packages in this virtual env
+  
+
+  ```
+  pip install numpy
+  pip install pandas
+  pip install matplotlib
+  ```
+  
+* register the new virtual env with Jupyter so that you can use it within JupyterLab
+
+  ```
+  python3 -m ipykernel install --name =‘maven-python‘ --user
+
+  ```
+  
+  Now open an existing/create a new `.ipynb` file and select the `maven-python` Kernel to use
