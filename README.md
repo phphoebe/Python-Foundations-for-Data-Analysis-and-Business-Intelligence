@@ -49,6 +49,7 @@ I completed below setup instead of using conda (course instruction):
   ```
   pip install numpy
   pip install pandas
+  pip install openpyxl
   pip install matplotlib
   ```
   
