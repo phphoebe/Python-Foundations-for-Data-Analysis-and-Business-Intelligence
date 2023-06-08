@@ -9,7 +9,7 @@ This repository consists of some of the assignments and hands-on practices that 
 * Use Python's Openpyxl package to read & write data to Excel worksheets
 * Build solid, foundational Python skills for data analysis & business intelligence
 
-### [The **Maven Ski Shop** Course Project](https://github.com/phphoebe/Python-for-Data-Analysis-and-Business-Intelligence/tree/main/Section13_final_project)
+### [The **Maven Ski Shop** Course Project](./Section13_final_project/)
 
 Act as a newly hired Data Analyst for **Maven Ski Shop**, the world's #1 store for skis, snowboards, and winter gear. The team is beginning to use Python for data analysis. 
 
