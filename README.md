@@ -1,4 +1,4 @@
-## Python Foundations for Data Analysis & Business Intelligence
+# Python Foundations for Data Analysis & Business Intelligence
 
 This repository consists of some of the assignments and hands-on practices that I have done by taking the [Python Foundations for Data Analysis & Business Intelligence](https://www.udemy.com/course/python-foundations-for-data-analysis/) course on Udemy. The course covers the building blocks of base Python for Data Analysis & BI: 
 
@@ -23,7 +23,8 @@ The objectives are **use Python to:**
 * Calculate KPIs and deliver insights on Black Friday Sales
 * Build a simple data pipeline and export processed data to Excel to share with leadership
 
-## Setup & Run Jupyter Notebooks in VS Code w/ Virtual Env & Kernels
+---
+### Setup & Run Jupyter Notebooks in VS Code w/ Virtual Env & Kernels
 
 I completed below setup instead of using Anaconda (course instruction):
 * create a virtual environment
@@ -62,5 +63,5 @@ I completed below setup instead of using Anaconda (course instruction):
 Now open an existing/create a new `.ipynb` file in VS Code and select the `maven-python` Kernel to use
 
 
-![image](https://github.com/phphoebe/Python-for-Data-Analysis-and-Business-Intelligence/assets/64668691/2867fa07-b3eb-4552-9074-5e9ae893152c)
+<img src="./certificate.png" width=90% height=90%>
 
