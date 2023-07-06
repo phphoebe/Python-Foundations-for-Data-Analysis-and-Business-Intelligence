@@ -1,4 +1,4 @@
-# Python Foundations for Data Analysis & Business Intelligence
+## Python Foundations for Data Analysis & Business Intelligence
 
 This repository consists of some of the assignments and hands-on practices that I have done by taking the [Python Foundations for Data Analysis & Business Intelligence](https://www.udemy.com/course/python-foundations-for-data-analysis/) course on Udemy. The course covers the building blocks of base Python for Data Analysis & BI: 
 
